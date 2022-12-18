@@ -137,7 +137,3 @@
 </p>
 
 <br/>
-
-<a href="https://github.com/code555man">
-    <img alt="code555man's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=code555man&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true"/>
-</a>
