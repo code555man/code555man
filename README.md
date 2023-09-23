@@ -1,4 +1,4 @@
-hi, i'm [Codeman](https://facebook.com/surachai420), I am a person who likes to learn by myself and is a student. Passion for coding I've created some fun projects on my github. Please follow along.
+hi, i'm [Surachai Sonachit](https://facebook.com/surachai420), I am a person who likes to learn by myself and is a student. Passion for coding I've created some fun projects on my github. Please follow along.
 
   
 <img align="left" src="https://img.shields.io/github/stars/code555man?label=Stars&style=social" alt="GitHub Badge"/>
